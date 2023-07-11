@@ -12,9 +12,8 @@ The Near Mosque Finder is a mobile application that helps users find mosques nea
 
 ## Screenshots
 Include some screenshots of the app to showcase its features. For example:
-
-![Map Screen](screenshots/map_screen.png)
-![Mosque Details](screenshots/mosque_details.png)
+please check this demo to show details
+https://drive.google.com/file/d/1jdH54FHNR1Q70UO3yAaJkboKK6awvf_v/view?usp=drive_link
 
 ## Installation
 1. Clone the repository:
